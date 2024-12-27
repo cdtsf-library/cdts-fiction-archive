@@ -7,3 +7,4 @@ ignore:
   - 'digital\.yml'
   - 'page\.yml'
   - 'search_index\.yml'
+  - 'robots.txt'
