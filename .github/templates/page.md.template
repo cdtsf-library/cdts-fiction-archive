@@ -1,0 +1,30 @@
+# {name}
+
+<!-- tcd_download_link -->
+TXT 下载: [{filename}]({filename})
+<!-- tcd_download_link_end -->
+
+## 摘要  { data-search-exclude }
+
+<!-- tcd_abstract -->
+{description}
+
+<!-- tcd_abstract_end -->
+
+## 其他信息
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | {filename}                             |
+| Type            | {type}                                 |
+| Format          | {format}                               |
+| Size            | {size} bytes                           |
+| MD5             | {md5}                                  |
+| Archived Date   | {archived}                             |
+| Original Link   | [{link}]({link})                         |
+| Author          | {author}                               |
+| Region          | {region}                               |
+| Date            | {date}                                 |
+| Tags            | {tags}                                 |
+
+本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>
