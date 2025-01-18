@@ -10123,10 +10123,4 @@ search:
 
 
 
-
-### 词云图 { data-search-exclude }
-
-![./变身摘要词云图](abstracts_wordcloud.png)
-
-
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
