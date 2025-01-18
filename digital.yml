@@ -13,6 +13,7 @@ ignore:
   - 'abstracts_wordcloud\.png'
   - 'abstracts_wordcloud\.html'
   - 'independence_repo\.json'
+  - 'wqy-microhei\.ttc'
 
 build_config:
   generate_wordcloud: false
