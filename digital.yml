@@ -12,6 +12,7 @@ ignore:
   - 'combined_index\.yml'
   - 'abstracts_wordcloud\.png'
   - 'abstracts_wordcloud\.html'
+  - 'independence_repo\.json'
 
 build_config:
   generate_wordcloud: true
