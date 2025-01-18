@@ -11,7 +11,7 @@
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@
 | Tags            | 性转, 跨性别, 创伤后应激障碍, 心理治疗, 人际关系, 情感冲突, 友情, 自我认同, 迷茫, 愧疚, 假身份, 角色扮演, 医院, 女性视角, 疗愈, 成长, 心理压力, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../_皮物__转瞬双生40.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -11,7 +11,7 @@
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@
 | Tags            | 伪娘, 变身, 跨性别, 情感纠葛, 夜店文化, 成人内容, 恋爱, 完美主义, 婚前派对, 自我探索, 性别认同, 紧身衣, 多重身份, 角色扮演, 刺激体验, 情欲关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../_皮物__转瞬双生48.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+
