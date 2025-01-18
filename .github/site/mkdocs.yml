@@ -1,5 +1,6 @@
 site_name:  TSF 变身文学档案（短篇）
 repo_url: https://github.com/cdtsf-library/cdts-fiction-archive
+edit_url: https://github.com/cdtsf-library/cdts-fiction-archive/edit/main/
 site_url: https://archive.cdtsf.com/
 site_description: '包含社区创作的伪娘、男娘、性转 TSF、变性、CDTS 变身文学与跨性别相关幻想小说的存档。'
 site_author: 性与性别多态计划
@@ -11,7 +12,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    # - content.action.edit
+    - content.action.edit
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
