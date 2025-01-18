@@ -15,4 +15,4 @@ ignore:
   - 'independence_repo\.json'
 
 build_config:
-  generate_wordcloud: true
+  generate_wordcloud: false
