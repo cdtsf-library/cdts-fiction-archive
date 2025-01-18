@@ -4,14 +4,7 @@ curator: ''
 source: ''
 tags: []
 license: ''
-files:
-- name: wqy-microhei
-  filename: wqy-microhei.ttc
-  type: other
-  format: Unknown Format
-  size: 5177387
-  md5: 966af48e02884546677a2f762f6725b9
-  page: wqy-microhei.ttc
+files: []
 subdirs:
 - 交换
 - 催眠
