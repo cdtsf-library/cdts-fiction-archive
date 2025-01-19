@@ -1,7 +1,7 @@
 # _皮物__转瞬双生52
 
 <!-- tcd_download_link -->
-TXT 下载: [_皮物__转瞬双生52.pdf](_皮物__转瞬双生52.pdf)
+下载: <a href="../_皮物__转瞬双生52.pdf" download>_皮物__转瞬双生52.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

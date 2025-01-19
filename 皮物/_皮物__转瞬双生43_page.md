@@ -1,7 +1,7 @@
 # _皮物__转瞬双生43
 
 <!-- tcd_download_link -->
-TXT 下载: [_皮物__转瞬双生43.pdf](_皮物__转瞬双生43.pdf)
+下载: <a href="../_皮物__转瞬双生43.pdf" download>_皮物__转瞬双生43.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要
