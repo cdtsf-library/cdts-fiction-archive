@@ -4,7 +4,7 @@
 TXT 下载: [{filename}]({filename})
 <!-- tcd_download_link_end -->
 
-## 摘要  { data-search-exclude }
+## 摘要
 
 <!-- tcd_abstract -->
 {description}

@@ -1,7 +1,7 @@
 # [其他]_與女高中生融合：雙結局完結
 
 <!-- tcd_download_link -->
-下载: [其他__與女高中生融合：雙結局完結.doc](_其他__與女高中生融合：雙結局完結.doc)
+下载: <a href="../_其他__與女高中生融合：雙結局完結.doc" download>其他__與女高中生融合：雙結局完結.doc</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要  { data-search-exclude }

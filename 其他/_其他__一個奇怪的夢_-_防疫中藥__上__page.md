@@ -1,7 +1,7 @@
 # [其他]_一個奇怪的夢_-_防疫中藥_(上)
 
 <!-- tcd_download_link -->
-下载: [其他__一個奇怪的夢_-_防疫中藥__上_.doc](_其他__一個奇怪的夢_-_防疫中藥__上_.doc)
+下载: <a href="../_其他__一個奇怪的夢_-_防疫中藥__上_.doc" download>其他__一個奇怪的夢_-_防疫中藥__上_.doc</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要  { data-search-exclude }
