@@ -9,7 +9,7 @@
 
 <!-- tcd_abstract_end -->
 
-## 其他信息 [Processed Page Metadata]
+## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
