@@ -25,7 +25,7 @@
 | Date            | 未知                                 |
 | Tags            | TRPG, 附身, 角色扮演, 蜘蛛角色, 游戏战报, 性转故事, 幽默, 恶搞, 仙侠, 互动游戏, 系统任务, 角色成长                                 |
 
-本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
 
 
 ## 正文 { data-search-exclude }

@@ -25,7 +25,7 @@
 | Date            | 未知                                 |
 | Tags            | 异能, 性别认同, 角色关系, 自我探索, 激烈战斗, 变身, 伪娘, 养成, 幻想, 冒险, 私密情感, 超能力, 异形, 自我交互, 身体改造, 角色心理                                 |
 
-本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
 
 
 ## 正文 { data-search-exclude }

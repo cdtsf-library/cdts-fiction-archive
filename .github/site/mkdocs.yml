@@ -12,7 +12,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - content.action.edit
+    # - content.action.edit
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
