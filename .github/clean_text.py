@@ -99,6 +99,27 @@ def clean_text(text):
     text = re.sub(r'[ \t]+', ' ', text)
     text = text.strip()
     
+    # Remove backslashes at the end of lines (including any following whitespace)
+    text = re.sub(r'\\+\s*$', '', text, flags=re.MULTILINE)
+    
+    # Remove backslashes followed by whitespace or newlines anywhere in the text
+    text = re.sub(r'\\+\s*(?=\n|$)', '', text)
+    
+    # Replace single newlines with double newlines for markdown
+    text = text.replace('\n', '\n\n')
+    
+    # Clean up multiple consecutive newlines
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    
+    # Clean up complex backslash patterns with special characters
+    text = re.sub(r'\\+\s*[\*\$\#\@\&\|\^\~\!\?]+\s*\\+', '', text)
+    
+    # Clean up backslashes with numbers/letters
+    text = re.sub(r'\\+\s*[a-zA-Z0-9]+(?:\s*\\+)?', '', text)
+    
+    # Clean up isolated backslashes and any remaining backslash patterns
+    text = re.sub(r'\\+\s*', '', text)
+    
     return text 
 
 def process_md_file(file_path):
