@@ -1,0 +1,19 @@
+independence: []
+ignore:
+  - '.*news-website.*'
+  - '.*webpage_archive.*'
+  - '.*\.github.*'
+  - '.*\.git.*'
+  - '.*CODE_OF_CONDUCT\.md.*'
+  - '.*LICENSE.*'
+  - 'digital\.yml'
+  - 'search_index\.yml'
+  - 'robots\.txt'
+  - 'combined_index\.yml'
+  - 'abstracts_wordcloud\.png'
+  - 'abstracts_wordcloud\.html'
+  - 'independence_repo\.json'
+  - 'wqy-microhei\.ttc'
+
+build_config:
+  generate_wordcloud: false
