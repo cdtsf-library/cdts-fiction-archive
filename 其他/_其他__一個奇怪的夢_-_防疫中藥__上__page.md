@@ -1,7 +1,10 @@
 # [其他]_一個奇怪的夢_-_防疫中藥_(上)
 
 <!-- tcd_download_link -->
-下载: <a href="../_其他__一個奇怪的夢_-_防疫中藥__上_.doc" download>其他__一個奇怪的夢_-_防疫中藥__上_.doc</a>
+下载: <a href="../_其他__一個奇怪的夢_-_防疫中藥__上_.txt" download>_其他__一個奇怪的夢_-_防疫中藥__上_.txt</a>
+
+
+<a href="../_其他__一個奇怪的夢_-_防疫中藥__上_.txt" download onclick="this.href='https://app.webnovel.win/?add='+encodeURIComponent(this.getAttribute('href'))">在线阅读 _其他__一個奇怪的夢_-_防疫中藥__上_.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要  { data-search-exclude }

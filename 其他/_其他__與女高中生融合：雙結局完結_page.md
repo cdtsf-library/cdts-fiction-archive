@@ -1,7 +1,10 @@
 # [其他]_與女高中生融合：雙結局完結
 
 <!-- tcd_download_link -->
-下载: <a href="../_其他__與女高中生融合：雙結局完結.doc" download>其他__與女高中生融合：雙結局完結.doc</a>
+下载: <a href="../_其他__與女高中生融合：雙結局完結.txt" download>_其他__與女高中生融合：雙結局完結.txt</a>
+
+
+<a href="../_其他__與女高中生融合：雙結局完結.txt" download onclick="this.href='https://app.webnovel.win/?add='+encodeURIComponent(this.getAttribute('href'))">在线阅读 _其他__與女高中生融合：雙結局完結.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要  { data-search-exclude }
