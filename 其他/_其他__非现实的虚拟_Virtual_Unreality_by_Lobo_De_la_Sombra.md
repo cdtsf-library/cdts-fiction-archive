@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [其他]_非现实的虚拟_Virtual_Unreality_by_Lobo_De_la_Sombra.doc                             |
@@ -25,7 +29,11 @@
 | Date            | 未知                                 |
 | Tags            | 虚拟现实, 跨性别, 性别认同, 变身小说, 自我探索, 女权主义, 年轻女性, 情感交互, 科幻, 心理游戏, 性别角色, 人性, 沉浸式体验, 科技与伦理, 红颜知己, 另类关系, 性别流动性                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

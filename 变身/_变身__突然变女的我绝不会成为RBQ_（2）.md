@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [变身]_突然变女的我绝不会成为RBQ_（2）.doc                             |
@@ -25,7 +29,11 @@
 | Date            | 未知                                 |
 | Tags            | 性转, 变身, 跨性别, 自我探索, 友情, 性别认同, 快感体验, 青春校园, 男娘, 纯爱, 奇幻, 魔法, 恋爱, 年龄差, 都市, 爱情, 小说, 二次元, 角色扮演, 情欲, 科幻                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

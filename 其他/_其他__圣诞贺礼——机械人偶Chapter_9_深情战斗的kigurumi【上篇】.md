@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [其他]_圣诞贺礼——机械人偶Chapter_9_深情战斗的kigurumi【上篇】.docx                             |
@@ -25,7 +29,11 @@
 | Date            | 2010-12-26                                 |
 | Tags            | 伪娘, 变身, 跨性别, 角色互动, 暗杀, 剧情发展, 圣诞节, kigurumi, 自我认知, 情感冲突, 女性角色, 都市幻想, 黑暗剧情, 紧张氛围                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

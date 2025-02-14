@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [变装]_公寓生活(前篇_无H).docx                             |
@@ -25,7 +29,11 @@
 | Date            | 未知                                 |
 | Tags            | 公寓生活, 邻里关系, 日常生活, 性别认同, 友谊, 人际交往, 温馨故事, 社会互动, 生活压力, 搞笑                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

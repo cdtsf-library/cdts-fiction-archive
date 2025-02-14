@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [皮物]_关于我在路人女主的故事里入替女主ntr主角（7）.doc                             |
@@ -25,7 +29,11 @@
 | Date            | 未知                                 |
 | Tags            | 性别转换, 伪娘, 情感探索, 自我认同, 青春恋爱, 变身, 女同性恋, 性暗示, 调戏, 校园生活, 女性视角, NTR, 强奸, 调教, 女孩之间的亲密关系, 年龄差, 百合, 女体化, TSF                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

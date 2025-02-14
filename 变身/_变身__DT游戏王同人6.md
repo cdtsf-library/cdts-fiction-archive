@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [变身]_DT游戏王同人6.doc                             |
@@ -25,7 +29,11 @@
 | Date            | 未知                                 |
 | Tags            | 变身, 跨性别, 二次元, 角色认同, 幻想冒险, 魔女传说, 酒馆场景, 自我探索, 情感交流, 青春成长, 食欲之秋, 异世界冒险, 纯爱, 女主人公, 男性视角, 家庭与朋友, 奇幻元素, 男女性别交错, 心理冲突, 角色发展                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [变装]柔弱大学生的雌堕_I.doc                             |
@@ -25,7 +29,11 @@
 | Date            | 未知                                 |
 | Tags            | 伪娘, 变身小说, 跨性别, 性别认同, 校园生活, 羞耻与自我接纳, 角色冲突, 青春期困扰, 情感探索, 自我反思, 性别模糊, 社会压力, 房东与租客关系, 大学生活, 人际关系紧张, 身体羞辱, 性别表现, 心理挣扎, 性别认同的挑战                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

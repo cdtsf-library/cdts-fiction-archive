@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [催眠]_VR恋爱模拟.doc                             |
@@ -25,7 +29,11 @@
 | Date            | 未知                                 |
 | Tags            | VR游戏, 恋爱模拟, 性别转变, 沉浸体验, 角色扮演, 3D CG, 互动游戏, 情感体验, 女主角视角, 次世代游戏, 自我探索, 虚拟现实, 二次元文化, 游戏机制, 心理体验, 性别认同, 羁绊, 浪漫, 奇幻, 游戏更新                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

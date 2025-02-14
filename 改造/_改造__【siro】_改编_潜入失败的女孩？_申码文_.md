@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [改造]_【siro】[改编]潜入失败的女孩？(申码文).docx                             |
@@ -25,7 +29,11 @@
 | Date            | 未知                                 |
 | Tags            | 性别转换, 卧底行动, 邪教, 魔法, 跨性别, 冒险, 女性角色, 心理冲突, 魔族转生, 帝国特种部队, 神秘宗教, 熏香影响, 情报收集, 快感, 危机感, 自我认知, 性别角色, 离奇事件, 强迫与选择, 诱惑与欲望, 冲突与成长                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

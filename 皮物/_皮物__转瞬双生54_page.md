@@ -27,4 +27,8 @@
 | Date            | [Unknown date(update needed)]                                 |
 | Tags            | [Unknown tags(update needed)]                                 |
 
-本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>
+<!-- tcd_other_info_end -->
+</details>
+
+本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://cdtsf.com/>
+

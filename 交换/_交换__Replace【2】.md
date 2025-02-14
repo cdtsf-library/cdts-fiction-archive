@@ -25,7 +25,11 @@
 | Date            | 未知                                 |
 | Tags            | 性转, 跨性别, 伪娘, 变身, 自我认知, 男性与女性身份, 性别角色, 梦境体验, 偶像文化, 身体变化, 性别流动性, 恶心, 性幻想, 偶像崇拜, 身体探索, 女性化, 快感, 美感, 社交场景, 恋爱与性                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

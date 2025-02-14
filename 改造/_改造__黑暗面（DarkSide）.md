@@ -25,7 +25,11 @@
 | Date            | 未知                                 |
 | Tags            | 黑暗面, 心理斗争, 变种人, 警察故事, 自我认知, 人性探讨, 正义的相对性, 内心黑暗, 实验, 折磨, 情感纠葛, 角色转变, 反乌托邦, 科幻, 暴力, 沉陷, 失落                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

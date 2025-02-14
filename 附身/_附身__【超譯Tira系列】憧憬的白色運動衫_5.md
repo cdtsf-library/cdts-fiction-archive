@@ -11,6 +11,10 @@
 
 ## 其他信息 [Processed Page Metadata] { data-search-exclude }
 
+<details markdown>
+<summary>附加信息表</summary>
+<!-- tcd_other_info -->
+
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
 | Filename        | [附身]_【超譯Tira系列】憧憬的白色運動衫_5.docx                             |
@@ -25,7 +29,11 @@
 | Date            | 未知                                 |
 | Tags            | 伪娘, 变身, 跨性别, 性别认同, 身体探索, 附身, 成人内容, 自我认知, 色情情节, 心理冲突, 角色互动, 性别转变, 剧情发展, 伦理探讨, 性欲体验, 心灵连接, 异性体验, 亲密关系, 情欲                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }

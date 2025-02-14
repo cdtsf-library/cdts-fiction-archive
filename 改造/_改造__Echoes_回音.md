@@ -25,7 +25,11 @@
 | Date            | 未知                                 |
 | Tags            | 性转, 变身, 心理探索, 婚姻危机, 自我认同, 回音效应, 幻觉, 欲望, 禁忌, 阴暗面, 变嫁, 伪娘, 强奸, 调教, 逆后宫, 淫荡, 多重性别, 女体化, 虚拟现实, 情感纠葛, 中年危机                                 |
 
-本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com> 搜索内容请访问：多元性别搜索引擎<https://transchinese.org/search>
+<!-- tcd_other_info_end -->
+</details>
+
+本篇内容由多元性别成人图书馆（Gender Diversity Adult Library）收录并整理，仅供非营利性归档使用。著作权归原作者所有，若条件允许，请前往原文链接支持作者的创作。关于图书馆，更多信息请访问 <https://cdtsf.com>
+
 
 
 ## 正文 { data-search-exclude }
