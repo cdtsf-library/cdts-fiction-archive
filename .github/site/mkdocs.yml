@@ -46,9 +46,9 @@ theme:
   language: zh
 plugins:
   - search
-  - social:
-      cards_layout_options:
-        font_family: Noto Sans SC
+  # - social:
+  #     cards_layout_options:
+  #       font_family: Noto Sans SC
   # - rss:
   #     match_path: ".*"
   #     date_from_meta:
