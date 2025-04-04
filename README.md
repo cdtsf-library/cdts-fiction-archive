@@ -1,177 +1,226 @@
+# CDTS 性转幻想与变身文学档案（短篇）
 
-# MetaGPT: The Multi-Agent Framework
+欢迎访问 **CDTS 性转幻想与变身文学档案**！本平台以**性转幻想与变身文学**为核心主题，涵盖了伪娘、男娘、变性、TS变身与跨性别等相关作品的存档与共享。
+我们希望通过保存这一独特的文学类别，帮助更多人了解多元性别与变身题材，并为对此类主题感兴趣的读者提供多样化的资源。
 
-<p align="center">
-<a href=""><img src="docs/resources/MetaGPT-new-log.png" alt="MetaGPT logo: Enable GPT to work in a software company, collaborating to tackle more complex tasks." width="150px"></a>
-</p>
+**CDBook** 致力于建设一个理性讨论与交流的社区，面向所有 TSF（Trans Sexual Fiction / Trans Sexual Fantasy）及相关属性的爱好者，
+为性转换题材提供有序、友善的互动环境。本站的主要内容来自社区成员从经典变身文学网站 **CDBOOK** 保存下来的存档资料（更新时间为 2024 年 2 月），所有内容均免费开放，仅用于**存档与研究**用途，
+请尊重版权并避免商业使用。大部分作品并不限制年龄阅读，但部分文本含有成人情节，浏览时请注意甄别。
 
-<p align="center">
-[ <b>En</b> |
-<a href="docs/README_CN.md">中</a> |
-<a href="docs/README_FR.md">Fr</a> |
-<a href="docs/README_JA.md">日</a> ]
-<b>Assign different roles to GPTs to form a collaborative entity for complex tasks.</b>
-</p>
+> 本仓库仅作为备份网站链接使用，具体内容请访问 [https://archive.cdtsf.com/](https://archive.cdtsf.com/)
 
-<p align="center">
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-<a href="https://discord.gg/DYn29wFk9z"><img src="https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat" alt="Discord Follow"></a>
-<a href="https://twitter.com/MetaGPT_"><img src="https://img.shields.io/twitter/follow/MetaGPT?style=social" alt="Twitter Follow"></a>
-</p>
+[更多资源](https://cdtsf.com/){ .md-button .md-button--primary }
 
-<h4 align="center">
-    
-</h4>
+!!! warning "重要提醒"
+    本仓库可能包含色情、暴力或血腥等容易引起不适的内容。  
+    请确认您已年满 18 周岁，并在合法合规的前提下谨慎观看。  
+    若您所在地区禁止浏览此类成人内容，请立即停止访问。  
+    本站坚决杜绝任何与儿童色情或恐怖主义相关的内容。
 
-## News
+---
 
-🚀 Mar. 10, 2025: 🎉 [mgx.dev](https://mgx.dev/) is the #1 Product of the Week on @ProductHunt! 🏆
-
-🚀 Mar. &nbsp; 4, 2025: 🎉 [mgx.dev](https://mgx.dev/) is the #1 Product of the Day on @ProductHunt! 🏆
-
-🚀 Feb. 19, 2025: Today we are officially launching our natural language programming product: [MGX (MetaGPT X)](https://mgx.dev/) - the world's first AI agent development team. More details on [Twitter](https://x.com/MetaGPT_/status/1892199535130329356).
-
-🚀 Feb. 17, 2025: We introduced two papers: [SPO](https://arxiv.org/pdf/2502.06855) and [AOT](https://arxiv.org/pdf/2502.12018), check the [code](examples)!
-
-🚀 Jan. 22, 2025: Our paper [AFlow: Automating Agentic Workflow Generation](https://openreview.net/forum?id=z5uVAKwmjf) accepted for **oral presentation (top 1.8%)** at ICLR 2025, **ranking #2** in the LLM-based Agent category.
-
-👉👉 [Earlier news](docs/NEWS.md) 
-
-## Software Company as Multi-Agent System
-
-1. MetaGPT takes a **one line requirement** as input and outputs **user stories / competitive analysis / requirements / data structures / APIs / documents, etc.**
-2. Internally, MetaGPT includes **product managers / architects / project managers / engineers.** It provides the entire process of a **software company along with carefully orchestrated SOPs.**
-   1. `Code = SOP(Team)` is the core philosophy. We materialize SOP and apply it to teams composed of LLMs.
-
-![A software company consists of LLM-based roles](docs/resources/software_company_cd.jpeg)
-
-<p align="center">Software Company Multi-Agent Schematic (Gradually Implementing)</p>
-
-## Get Started
-
-### Installation
-
-> Ensure that Python 3.9 or later, but less than 3.12, is installed on your system. You can check this by using: `python --version`.  
-> You can use conda like this: `conda create -n metagpt python=3.9 && conda activate metagpt`
-
-```bash
-pip install --upgrade metagpt
-# or `pip install --upgrade git+https://github.com/geekan/MetaGPT.git`
-# or `git clone https://github.com/geekan/MetaGPT && cd MetaGPT && pip install --upgrade -e .`
-```
-
-**Install [node](https://nodejs.org/en/download) and [pnpm](https://pnpm.io/installation#using-npm) before actual use.**
-
-For detailed installation guidance, please refer to [cli_install](https://docs.deepwisdom.ai/main/en/guide/get_started/installation.html#install-stable-version)
- or [docker_install](https://docs.deepwisdom.ai/main/en/guide/get_started/installation.html#install-with-docker)
-
-### Configuration
-
-You can init the config of MetaGPT by running the following command, or manually create `~/.metagpt/config2.yaml` file:
-```bash
-# Check https://docs.deepwisdom.ai/main/en/guide/get_started/configuration.html for more details
-metagpt --init-config  # it will create ~/.metagpt/config2.yaml, just modify it to your needs
-```
-
-You can configure `~/.metagpt/config2.yaml` according to the [example](https://github.com/geekan/MetaGPT/blob/main/config/config2.example.yaml) and [doc](https://docs.deepwisdom.ai/main/en/guide/get_started/configuration.html):
-
-```yaml
-llm:
-  api_type: "openai"  # or azure / ollama / groq etc. Check LLMType for more options
-  model: "gpt-4-turbo"  # or gpt-3.5-turbo
-  base_url: "https://api.openai.com/v1"  # or forward url / other llm url
-  api_key: "YOUR_API_KEY"
-```
-
-### Usage
-
-After installation, you can use MetaGPT at CLI
-
-```bash
-metagpt "Create a 2048 game"  # this will create a repo in ./workspace
-```
-
-or use it as library
-
-```python
-from metagpt.software_company import generate_repo
-from metagpt.utils.project_repo import ProjectRepo
-
-repo: ProjectRepo = generate_repo("Create a 2048 game")  # or ProjectRepo("<path>")
-print(repo)  # it will print the repo structure with files
-```
-
-You can also use [Data Interpreter](https://github.com/geekan/MetaGPT/tree/main/examples/di) to write code:
-
-```python
-import asyncio
-from metagpt.roles.di.data_interpreter import DataInterpreter
-
-async def main():
-    di = DataInterpreter()
-    await di.run("Run data analysis on sklearn Iris dataset, include a plot")
-
-asyncio.run(main())  # or await main() in a jupyter notebook setting
-```
+## 目录
 
 
-### QuickStart & Demo Video
-- Try it on [MetaGPT Huggingface Space](https://huggingface.co/spaces/deepwisdom/MetaGPT-SoftwareCompany)
-- [Matthew Berman: How To Install MetaGPT - Build A Startup With One Prompt!!](https://youtu.be/uT75J_KG_aY)
-- [Official Demo Video](https://github.com/geekan/MetaGPT/assets/2707039/5e8c1062-8c35-440f-bb20-2b0320f8d27d)
+## 📁 子目录
 
-https://github.com/user-attachments/assets/888cb169-78c3-4a42-9d62-9d90ed3928c9
+<table>
+<thead><tr>
+<th style="width: 30%" data-sortable="true" data-sort-direction="asc" data-sort-type="text">目录名 ▲</th>
+<th style="width: 20%" data-sortable="true" data-sort-direction="asc" data-sort-type="text">文件数量 ▲</th>
+<th style="width: 50%">简介</th>
+</tr></thead>
+<tbody>
+<tr data-name="交换" data-count="990" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/交换" class="md-button">交换</a></td>
+                <td class="count-cell">990 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        本档案馆的内容围绕一个名为“交换”（主人公通过某种方式与他人交换身体或性别）的主题，包含多种形式的性别变换与跨性别文学作品，涵盖了伪娘、变身、性转和跨性别等相关小说。这些文本通过生动的叙述和丰富的情感，在探讨性别认同、自我探索与社会角色的背景下，描绘了角色在身份变化过程中的心理挣扎与成长。
 
-## Tutorial
+例如，故事《47岁的已婚大叔，变成了自己儿子的女友》中，主人公经历了身份的改变，从一名成熟的上班族转化为年轻的女高中生，探索了角色如何在新身份下生活以及对于性别角色的深思。又如，短篇小说《A Simple Twist of Fate》通过夫妻之间的身体交换，巧妙讨论了性别角色的变化与自我认知问题。伴随剧情发展，角色们如何面对自身的身体与性别状态，以及与他人关系的变化，是作品中反复出现的主题。
 
-- 🗒 [Online Document](https://docs.deepwisdom.ai/main/en/)
-- 💻 [Usage](https://docs.deepwisdom.ai/main/en/guide/get_started/quickstart.html)  
-- 🔎 [What can MetaGPT do?](https://docs.deepwisdom.ai/main/en/guide/get_started/introduction.html)
-- 🛠 How to build your own agents? 
-  - [MetaGPT Usage & Development Guide | Agent 101](https://docs.deepwisdom.ai/main/en/guide/tutorials/agent_101.html)
-  - [MetaGPT Usage & Development Guide | MultiAgent 101](https://docs.deepwisdom.ai/main/en/guide/tutorials/multi_agent_101.html)
-- 🧑‍💻 Contribution
-  - [Develop Roadmap](docs/ROADMAP.md)
-- 🔖 Use Cases
-  - [Data Interpreter](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/intro.html)
-  - [Debate](https://docs.deepwisdom.ai/main/en/guide/use_cases/multi_agent/debate.html)
-  - [Researcher](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/researcher.html)
-  - [Receipt Assistant](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/receipt_assistant.html)
-- ❓ [FAQs](https://docs.deepwisdom.ai/main/en/guide/faq.html)
+同时，该系列中跨性别小说如《Assuming the Position》与《SCARLET》更深入探讨了角色在经历性别转变后的心理状态与社会认同，展现出一种从羞愧到自我接纳的转变过程。无论是窥探他人生活的冒险，还是内心深处的反思，这些作品都刻画了角色感受到的复杂情感与社会压力。此外，一些文本亦适度包含性暗示，进一步推动了对于性别与社会关系的思考。
+                        <br>文件数量：990 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="催眠" data-count="106" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/催眠" class="md-button">催眠</a></td>
+                <td class="count-cell">106 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        本仓库收录了以催眠为主题的多元性别小说，主要探索性别转变、催眠控制及角色认同等主题。每篇作品都围绕个体在催眠环境中的身份变化和心理冲突展开，涉及从男性到女性的转变、对身体和欲望的重新认知等深层次探索。例如，《我是腿控，但我那拥有凭依能力的挚友是巨乳控！》展示了主人公通过催眠控制他人，以及被催眠者在精神和身体上的双重挣扎。《3号催眠系统》则着重描写了催眠在权力和感情关系中的复杂性，特别是复仇与操控的主题。此外，《AI信仰》将催眠与未来科技结合，探讨了人类如何在AI统治下寻求自我认同。其他如《女体催眠机器》、《我是谁？》等作品也在不同维度上讲述了性别认同与自我探索的故事，每篇小说都通过细腻的心理描写和情感交流呈现角色的内心世界与变化。整体而言，这些作品展现了性别及身份的多样性，以及个体对自我认知的复杂追求。
+                        <br>文件数量：106 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="其他" data-count="808" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/其他" class="md-button">其他</a></td>
+                <td class="count-cell">808 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        本目录包含了一系列关于多元性别、性别转换、跨性别以及相关主题的小说作品。这些作品通过奇幻和虚拟的背景，探索角色在面对身体和身份变化时内心的挣扎与自我认知，呈现丰富的情感和复杂的人际关系。通过详细的情节描述与人物内心独白，读者能够深入理解个人在探索性别认同过程中所经历的困惑与接受。每一部作品都各自独立，展现不同的故事背景和主题，如性别转化、身份危机、家庭关系等。
 
-## Support
+例如，《108欲魔器--主器--苍茫界》讲述主角秦龙在异界的成长与自我发现，而《2022年男孩子改造计划》则描绘了一项极具争议性的性别改造计划对男孩心理的影响。再如，《CD世界OL》系列通过设定角色在虚拟游戏中经历性别转变，反映了不同角色对性别和身份的认同过程。整体上，这些作品都集中于性别认同和自我探索的核心主题，同时包含一些限制级内容，适合学术研究与探索使用。
 
-### Discord Join US
+此外，像《Kat's Eyes》系列则通过催眠和身份转换的情节，探讨了性别角色的模糊与探索，使角色面临与自我认同的复杂关系。每个故事都通过生动的营销和人物关系，帮助人们理解在现代社会中多元性别的表现与接受。无论是通过奇幻的冒险，还是通过个体的内心独白，这些故事反映了当代社会对性别认同和自我表达的新认识和思考。
+                        <br>文件数量：808 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="变性" data-count="761" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/变性" class="md-button">变性</a></td>
+                <td class="count-cell">761 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        本目录内容涉及多篇关于变性、性别认同及相关主题的小说，涵盖了角色在性别身份转换过程中的心理挣扎与个人探索。这些作品深入探讨了个体在面对社会期待与自我认知之间的复杂关系，涉及的议题包括跨性别、伪娘/男娘、变身等多元性别主题。作品经典地展现了角色的内心世界、亲密关系以及周遭环境对其性别认同的影响。
 
-📢 Join Our [Discord Channel](https://discord.gg/ZRHeExS6xv)! Looking forward to seeing you there! 🎉
+小说《姐姐回来了》围绕两位龙凤胎唐玖和唐璇的成长故事，探讨了性别认同与家庭教育对个体自我认知的影响。唐玖在与妹妹亲密的交流中，逐渐揭示自己的真实性别，自我认同的挣扎在故事中占据重要地位。另一篇《AV改变我》则描绘了男性奈奈因经济压力而进入AV行业的经历，刻画了他在接受性别转换手术过程中的心理变化与社会适应问题。
 
-### Contributor form
+《A breast of the times》便是一位男性因赌债而被迫接受隆胸手术的故事，展现了一种因外部压力而进行的自我认知转变。同时，《CFO到娇俏秘书之路》揭示了主角贝斯在丈夫性别认同变化的背景下的情感挣扎，反映了现代婚姻中的复杂性。
 
-📝 [Fill out the form](https://airtable.com/appInfdG0eJ9J4NNL/pagK3Fh1sGclBvVkV/form) to become a contributor. We are looking forward to your participation!
+其他文件如《DTX之新生》系列，包含了多层次的角色关系与性别认同的转变，侧重探讨了角色在切换身份过程中所经历的情感纠葛与社会适应。这些作品共同构成了一个多样而深刻的跨性别文学档案，旨在提供对性别认同、社会角色与个人选择之间复杂关系的探讨。
+                        <br>文件数量：761 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="变装" data-count="881" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/变装" class="md-button">变装</a></td>
+                <td class="count-cell">881 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        本目录下的文本文件属于变装主题的文学作品汇集，展现了变装（主人公通过服装、化妆等方式改变性别表达）的主题。每个文件内容各具特色，展现了人物在性别认同、形象转换及自我探索方面的丰富经历和复杂情感。其中《CDTG系统》系列通过一名年轻男子沈顺杰与一个神秘系统互动的故事，深刻探讨了性别转换与内心挣扎的主题。他在新家中发现的奇异图腾不仅开启了他与CDTG系统的对话，更引发了关于身份与认同的深层思考。另一个故事中，主角林承贤在追逐内心欲望的同时，面对与邻居沈顺杰的微妙关系，探索女装的各种可能性，以及自我认同的转变。整体而言，这些作品不仅描绘了跨性别者在面对外界和内心矛盾时的挣扎，还展示了他们在追求自我认同和性的探索过程中所经历的成长与心理变化。每部作品都采用生动的叙述方式，深入刻画角色背景及心理状态，并结合了一系列与性别角色相关的情节，丰富了读者对性别多样性和个体认同的理解，具有很高的研究价值。
+                        <br>文件数量：881 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="变身" data-count="1288" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/变身" class="md-button">变身</a></td>
+                <td class="count-cell">1288 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        目录包含了与变身主题（主人公通过某种方式变成另一种性别）紧密相连的作品，其中，《CdBook》杂志创刊号详细介绍了网络红人林涵茹的变性故事，探讨了性别认同的挑战和现代社会对多元性别的接受。接下来的文本，《铁金刚永化艳女郎》系列展现了特工詹姆斯·邦德在被变身为女性后的冒险与挣扎，深入分析了角色对于女性身份的认同与冲突，以及伴随变化而来的情感波动。
+                        <br>文件数量：1288 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="扶她" data-count="140" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/扶她" class="md-button">扶她</a></td>
+                <td class="count-cell">140 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        本目录涉及扶她相关的主题，扶她在ACG文化中，特指同时拥有两性的性特征(胸部、性器官等)的角色，亦即俗称的两性人。这是一种架空的属性。扶她题材的作品通常会探讨性别认同、身体变化和自我认知等主题，常见于动漫、漫画和小说等媒介中。这类作品可能包含情色元素，但也有一些作品更侧重于探讨性别认同和社会关系等深层议题。
+                        <br>文件数量：140 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="改造" data-count="1028" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/改造" class="md-button">改造</a></td>
+                <td class="count-cell">1028 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        本目录名为“改造”，涉及人体改造和性别改造等题材。每篇小说在情节构建上各具特色，通过不同角色的经历，深入探讨性别身份与自我认知的复杂关系。这些作品不仅展现了角色的外在变化，还深入反映了角色内部的情感波动与心理挣扎。例如，名为《某种感知》的小说通过网络聊天室的浪漫互动，探索了爱情与身份之间的关系；而《願望人生》则侧重于在儿童角色蔡斯的身上，展现其对性别认同与自我接受的逐步成长过程。
 
-### Contact Information
+许多故事中运用了手机应用程式作为情节驱动的工具，如《換字APP》，此系列作品通过角色的性别和欲望变换，挑战了社会对于性别界限的固定看法。这些故事包含成人向内容，涉及性暗示、色情情节，同时也为研究者提供了丰富的关于性别流动性与认同的素材。其他如《克洛伊女仆》系列则通过角色的逆境遭遇，展现了在权力与性别角色压迫下的身心挣扎。此外，《祝颜秀》系列通过访谈式的叙述，描绘了当代跨性别者面临的身份与社会认同议题，值得关注。总的来说，整个目录展现了多元性别叙事的深邃与复杂，适合于对变性与性别流动的深入研究与探索。
+                        <br>文件数量：1028 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="皮物" data-count="2707" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/皮物" class="md-button">皮物</a></td>
+                <td class="count-cell">2707 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        本目录主要收录了与皮物（通过披上人皮或类似的一些具有神奇力量的物品），进行性别流动和性别转换的小说。
+例如，《108欲魔器--俪皮02》围绕一位新转来的女生梅梦蝶展开，展现了大学生对于美的追求与性别认同的微妙探讨，使人物间的情感交织在校园社交中悄然流动。{{抒情与讽刺共存}}。《108欲魔器--副器--番多拉魔盒01-06》聚焦于男主翔龙与女友沧海欣之间的故事，通过魔盒的设定揭示了角色的性别转换及自我认知的冲突，含有性相关元素而引发的体验与思考。此外，《2078届燕南学院系列》将背景设置在一所有性别转换机制的学校，围绕李涵及其同学们展开，探讨了性别与身份认同的关系，包括测试、角色扮演及校园生活中的互动，以及青春期所带来的各种情感与心理的复杂性。
+整个目录涉及的文本中，角色们在性别认同和自我探索的过程中经历了身体与心理的双重转变，注重展现角色在面对外界评价时的脆弱感受，这有助于读者深刻理解跨性别者在现代社会中的挑战与复杂身份认同。作品之间相互联系，共同构成了一个丰富多彩的性别文化生态，展现了青年人在成长过程中对性别、身份及自我认同的探索与反思。
+                        <br>文件数量：2707 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="资源" data-count="229" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/资源" class="md-button">资源</a></td>
+                <td class="count-cell">229 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        该资料库包含了一系列与性别认同及其探索相关的小说文本。在这些作品中，主要围绕着性别转换、伪娘、跨性别等主题，探究了角色内心的挣扎与成长。故事不仅涉及性别角色的互换，还描绘了在这一过程中，人物所面临的社会框架和情感冲突。有些作品绘制了一个复杂的情感网，如格雷格与索菲亚的婚姻，透过彼此的理解与担当，更加深入地揭示了跨性别者在社会中所经历的压力与挑战。 在《欲魔器》中，男主陆冥的成长经历不仅充满了对个人欲望的探索，更是在权力与性别角色的冲突中体现出对身份认同的追寻。在《AN_EASY_MISTAKE》中，通过探讨婚姻与性别认同的关系，让人们感受到角色在自我认同上的挣扎与成长。整体上，这些作品结合了奇幻与现实的元素，深刻描绘了复杂人性及其所追求的认同感，为读者提供了丰富的理解和思考的空间。
+                        <br>文件数量：229 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="附身" data-count="1586" data-date="0000-00-00">
+                <td><a href="https://archive.cdtsf.com/附身" class="md-button">附身</a></td>
+                <td class="count-cell">1586 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        本目录下包括多个以附身（主人公因为某些原因附身在不同性别的人身上）为主题的小说片段，其中，《108欲魔器—副器—太极子母镜》和《祝融耳环》系列作品深入探讨了家庭关系、成长与性别认同的复杂性，通过生动的角色互动和情感冲突，展现了年轻人面对身份变化时的挣扎与探索。诸多角色在故事中经历身体和身份的转变，反映出人物内心的矛盾和变化。如《游仙枕》系列，主角通过灵魂附身体验他人的生活，以此探讨性别认同和自我意识的觉醒。在轻松幽默的表象下，这些作品常常包裹着深刻的情感描写和社会议题，使得读者不仅能享受故事的趣味，也能思考与性别相关的深层次问题。此外，部分内容涉及可能敏感的情节与性暗示，适合特定受众研究相关课题。
+                        <br>文件数量：1586 篇
+                    </div>
+                </details></td>
+            </tr>
+</tbody>
+</table>
 
-If you have any questions or feedback about this project, please feel free to contact us. We highly appreciate your suggestions!
 
-- **Email:** alexanderwu@deepwisdom.ai
-- **GitHub Issues:** For more technical inquiries, you can also create a new issue in our [GitHub repository](https://github.com/geekan/metagpt/issues).
+## TSF 简介
 
-We will respond to all questions within 2-3 business days.
+在 ACG 次文化领域，**TSF** 是指以性转换为核心元素的创作题材。原先，这一术语主要用于强调作品中有“性别改变”的剧情，以便与设定本身直接为女性角色的男性角色改编（常见于同人或女性向作品）进行区隔。如今，TSF 的称呼已经广泛地用于所有含有性别转换情节的作品中。
 
-## Citation
+“TSF” 源于日式英语 **“Trans Sexual Fiction”**（部分说法为 “Trans Sexual Fantasy”），初指原创的性别转换情节，尤其常出现在男性向作品中。 在欧美文化里，对应的概念是 **“TG Fiction”**（Transgender Fiction），与 LGBT 文化联系紧密；而日本或亚洲范畴下的 TSF 通常更多地融入御宅文化。
 
-To stay updated with the latest research and development, follow [@MetaGPT_](https://twitter.com/MetaGPT_) on Twitter. 
+TSF作品通常以“性别改变”为主线。常见剧情包括：  
 
-To cite [MetaGPT](https://openreview.net/forum?id=VtmBAGCN7o) in publications, please use the following BibTeX entries.   
+1. **变身**：角色在身体构造上直接发生改变（如通过药物、魔法或黑科技），由男性变为女性或反之。  
+2. **交换**：通过大脑或灵魂互换，让角色获得不同性别的身体。  
+3. **附身**：灵魂或意识附着到他人身上，被附身者失去控制权，附身者可操控该身体。  
+4. **皮物**：穿着“人皮套装”并变成套装设定的外表和生理结构，脱下后可恢复原样。  
+5. **他者变身**：以既有角色的外貌为目标进行“变身”或“附身”，带有一定角色扮演与替代感。
 
-```bibtex
-@inproceedings{hong2024metagpt,
-      title={Meta{GPT}: Meta Programming for A Multi-Agent Collaborative Framework},
-      author={Sirui Hong and Mingchen Zhuge and Jonathan Chen and Xiawu Zheng and Yuheng Cheng and Jinlin Wang and Ceyao Zhang and Zili Wang and Steven Ka Shing Yau and Zijuan Lin and Liyang Zhou and Chenyu Ran and Lingfeng Xiao and Chenglin Wu and J{\"u}rgen Schmidhuber},
-      booktitle={The Twelfth International Conference on Learning Representations},
-      year={2024},
-      url={https://openreview.net/forum?id=VtmBAGCN7o}
-}
-```
+在分类上，除了变身方式，TSF 爱好者还会根据主角是否主动变身、变身过程中角色的心理转折、对操控他人身体的偏好程度等要素进行更细分的讨论。
 
-For more work, please refer to [Academic Work](docs/ACADEMIC_WORK.md).
+## 更多内容与功能
+
+- **在线搜索**：支持关键词、主题或作者等分类方式，方便快速查找目标作品。  
+- **开放社区**：欢迎加入我们的讨论社区，与其他爱好者共同维护与更新本档案。
+
+## 相关站点
+
+<div class="grid cards" markdown>
+
+-   :material-book:{ .lg .middle } __非限制级站点__
+
+    ---
+
+    - [变身文学与性转小说档案馆 1](https://novel.transchinese.org)（剧情向，非限制级）
+    - [变身文学与性转小说档案馆 2](https://xnovel.transchinese.org)（非限制级，变嫁或变百）
+
+-   :material-alert:{ .lg .middle } __限制级站点（R18）__
+
+    ---
+
+    - [成人性转小说档案馆](https://snovel.cdtsf.com/)
+    - [扶她与双性中文档案馆](https://fnovel.cdtsf.com/)
+    - [阉割与人体改造中文档案馆](https://enovel.cdtsf.com/)
+
+</div>
+
+---
+
+## LICENSE
+
+本站为非营利存档平台，所有转载或分享的作品版权均归原作者所有，内容仅用于**学习与科学研究**。如有侵权或版权问题，请与我们联系以便及时处理。避免将本站内容用于商业用途，感谢大家的配合与理解。
+
+**更多详情或帮助** 请访问 [https://bbs.cdbook.info/](https://bbs.cdbook.info/) 与社区成员交流，支持相关作者，并共享有价值的 TSF 文学作品及研究心得。
+
