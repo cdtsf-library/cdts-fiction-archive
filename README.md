@@ -213,6 +213,7 @@ TSF作品通常以“性别改变”为主线。常见剧情包括：
     - [成人性转小说档案馆](https://snovel.cdtsf.com/)
     - [扶她与双性中文档案馆](https://fnovel.cdtsf.com/)
     - [阉割与人体改造中文档案馆](https://enovel.cdtsf.com/)
+    - [催眠心控幻想文学档案馆](https://mc.cdtsf.com/)
 
 </div>
 
